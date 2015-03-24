@@ -21,6 +21,7 @@
     ],
     "extra": {
         "branch-alias": {
+            "dev-table-1.x": "1.9.x-dev",
             "dev-master": "0.1.x-dev"
         }
     },
